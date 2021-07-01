@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>limengzhen</h1>
+      <p>性别：女</p>
+      <p>年龄：21</p>
+       <p>籍贯：河北省衡水市</p>
+       <p><b>所在学校：石家庄铁道大学</b></p>
+       <p><b>学院：计算机科学与技术学院</b></p>
+       <p><b>专业：软件工程系</b></p>
+      <p>GItHUB个人主页地址：https://2868132472.github.io/2868132472-lmz.io/</p>
+      <p>手机：198....</p>
+      <p>QQ:2868..</p>
+      <p>Emile:28..@qq.com</p>
+    </td>
+     <td width="25%">
+      <img src="/3.jpg" width="100%">
+    </td>
+  </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/2868132472/2868132472.lmz.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# 职业兴趣
+- 在我的人才素质测评报告中，职业兴趣前三项是艺术型（5分）、社会型（4分）、实际型（3分）。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 艺术
+ 我喜欢绘画，手工制作，喜欢看电视剧，希望有一天能够成为导演。
+### 社会
+ 我喜欢广交朋友，与更多的人打球，下象棋， 踢毽子进行很多种方式的交流，有一段的时间的兼职经历，让我认识了更多的朋友。
+### 实际
+ 我有目标，学习循序渐进。
 
-### Markdown
+# 职业能力及适应性
+- 在我的人才素质测评报告结果显示，艺术能力得分较高（5分）实际能力得分较低
+### 艺术
+ 我表现出了更多的兴趣，也消费了较多的时间精力去从事这些我喜欢的事情。
+### 实际
+ 我花费很长的时间在兴趣上，这也使我没有时间去做具体的计划。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 个人性格
+- 我的人才素质测评报告结果显示我也性格属于外向热情一类。
+- 具体表现为:通常和蔼可亲，与人相处，合作与适应的能力特强。喜欢和别人共同工作，参加或组织各种社团活动，不斤斤计较，容易接受别人的批评。
+萍水相逢也可以一见如故。
 
-```markdown
-Syntax highlighted code block
+# 职业价值观
+我的人才素质测评报告结果显示前三项是自由取向（5分）、合作取向（3分）、志愿取向（2分）。
+ 我比较喜欢自由的职业，能够自己分配时间，我也很喜欢和别人合作。我希望我的工作能够对别人有帮助。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2868132472/2868132472.lmz.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+6、胜任能力
+- 做人真诚，做事认真负责。
+- 喜欢与人交往，善于组织策划活动和项目。
+- 积极务实,敢于主动承担自己的责任。
+- 能坚持。确定了正确方向，我就能把所有的力气砸向那个方向。有执行能力。
+- 勤奋,善于学习自己感兴趣的知识和事物。做事喜欢列个计划，分出轻重缓急。
