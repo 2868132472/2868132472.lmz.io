@@ -13,9 +13,7 @@
       <p>QQ:2868..</p>
       <p>Emile:28..@qq.com</p>
     </td>
-   <td width="25%">
-      <img src="/4.jpg" width="100%">     
-    </td>  
+   
   </tr>
 </table>
 
